@@ -1,8 +1,14 @@
 [
     {
-        "name": "SourceCred",
-        "periods": [],
         "autoActivateOnIdentityCreation": true,
-        "autoInjectStartingPeriodWeight": 0.05
+        "autoInjectStartingPeriodWeight": 0.05,
+        "id": "n5ngC0gjzbW8cOUb4bmPAg",
+        "name": "SourceCred",
+        "periods": [
+            {
+                "startTime": "2022-12-25T01:54:01.551Z",
+                "weight": 0.05
+            }
+        ]
     }
 ]
